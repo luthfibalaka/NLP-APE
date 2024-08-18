@@ -1,2 +1,0 @@
-download train, test, and dev.txt from:
-https://drive.google.com/drive/folders/1lzX95j9p2kW-LHIWGfCEi-q2EnpWitlu?usp=sharing

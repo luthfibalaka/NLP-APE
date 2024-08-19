@@ -22,7 +22,7 @@ special_tokens_yi = [
 special_tokens_dict_yi = {"additional_special_tokens": special_tokens_yi}
 
 
-tokenizer = RobertaTokenizer.from_pretrained("allenai/longformer-base-4096")
+tokenizer = RobertaTokenizer.from_pretrained("longformer-base")
 tokenizer.model_max_length = 4098
 tokenizer.add_special_tokens(special_tokens_dict_yi)
 
